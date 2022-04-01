@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋 I'm Harvir 💻 </h1>
 
-Currently enrolled in a full-time, 12 week intensive Software Development program.
+Currently enrolled in a full-time, 12 week intensive Software Development program with nology_io.
+
+
 
 ## Techstack
 
