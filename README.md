@@ -28,10 +28,6 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## Most Used Language
-
-![Figma](https://github-readme-stats.vercel.app/api/top-langs/?username={Harvir98})
-
 ## Connect 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
