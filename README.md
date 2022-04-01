@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Hi there👋 I'm Harvir 💻 </h1>
 
 ## Techstack
 
