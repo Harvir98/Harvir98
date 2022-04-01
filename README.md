@@ -30,7 +30,7 @@
 
 ## Most Used Language
 
-![Figma](https://github-readme-stats.vercel.app/api/top-langs/?username={username})
+![Figma](https://github-readme-stats.vercel.app/api/top-langs/?username={Harvir98})
 
 ## Connect 
 
